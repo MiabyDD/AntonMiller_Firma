@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="256" height="256">
+  <title>Anton Miller – Icon Leiterplatte</title>
+  <circle cx="32" cy="32" r="30" fill="#0b1726"/>
+  <circle cx="32" cy="32" r="28" fill="none" stroke="#10b981" stroke-width="2"/>
+  <g fill="none" stroke="#ffffff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M14 45 V28 L21 21 L28 28 V45"/><path d="M14 35 H28"/>
+    <path d="M36 45 V21 L43 28 L50 21 V45"/>
+  </g>
+  <g fill="#10b981" stroke="#0b1726" stroke-width="1.6">
+    <circle cx="14" cy="45" r="3.4"/><circle cx="28" cy="45" r="3.4"/>
+    <circle cx="36" cy="45" r="3.4"/><circle cx="50" cy="45" r="3.4"/>
+  </g>
+</svg>

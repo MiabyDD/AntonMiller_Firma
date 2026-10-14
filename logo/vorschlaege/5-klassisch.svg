@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 495 72" width="990" height="144">
+  <title>Anton Miller – Logo-Vorschlag Klassisch / Seriös</title>
+  <g transform="translate(4 4)">
+  <rect x="2" y="2" width="60" height="60" rx="6" fill="#0b1726"/>
+  <text x="32" y="40" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="27" font-weight="700" letter-spacing="1" fill="#ffffff">AM</text>
+  <rect x="12" y="47" width="40" height="3.5" rx="1.75" fill="#ffffff" opacity=".18"/>
+  <rect x="12" y="47" width="28" height="3.5" rx="1.75" fill="#22d3ee"/>
+  </g>
+  <text x="84" y="38" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="700" letter-spacing="0.5" fill="#0b1726">Anton Miller</text>
+  <text x="85" y="58" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="3.2" fill="#2563eb">SOFTWARE · ENGINEERING · PROJEKTLEITUNG</text>
+</svg>
