@@ -221,3 +221,17 @@ h3 { font-size: 1.15rem; }
   .wave-1 { stroke-dashoffset: 0; }
   .reveal { opacity: 1; transform: none; }
 }
+
+/* LinkedIn */
+.nav-linkedin svg, .btn-linkedin svg, .footer-linkedin svg { width: 18px; height: 18px; fill: currentColor; flex: none; }
+.main-nav .nav-linkedin { display: inline-flex; align-items: center; gap: .45rem; }
+.main-nav .nav-linkedin:hover { color: #0a66c2; }
+.btn-linkedin {
+  display: inline-flex; align-items: center; gap: .6rem; margin-top: 1.8rem;
+  background: #0a66c2;
+}
+.btn-linkedin:hover { box-shadow: 0 8px 20px rgba(10, 102, 194, .35); }
+.footer-linkedin { display: inline-flex; align-items: center; gap: .4rem; }
+@media (min-width: 721px) and (max-width: 1060px) {
+  .main-nav .nav-linkedin span { display: none; }
+}
